@@ -4,7 +4,7 @@ AI-Powered Emergency Traffic Management Platform
 
 ClearWay AI is a hackathon project that intelligently creates a **Dynamic Temporary Emergency Corridor (DTEC)** to help ambulances navigate traffic faster.
 
-Core Features
+Core Features:
 
 -  Live Ambulance Tracking
 -  Route Prediction
@@ -14,7 +14,7 @@ Core Features
 -  AI Dashboard
 -  Real-time Simulation
 
-Tech Stack
+Tech Stack:
 
 Frontend
 - React
@@ -38,6 +38,4 @@ Team
 - Backend Engineer
 - AI & Simulation Engineer
 
-- Product Lead & Frontend
-- Backend Engineer
-- AI & Simulation Engineer
+
