@@ -23,3 +23,28 @@
                      │
                      ▼
                  FRONTEND
+
+THE OWNERSHIP:
+## Frontend
+Owns:
+- UI
+- animation
+- visualization
+- controls
+- results presentation
+
+## Backend
+Owns:
+- API
+- session
+- simulation state
+- lifecycle
+- results
+
+## AI / Simulation
+Owns:
+- trajectory
+- conflict scoring
+- selection
+- DTEC
+- vehicle response
